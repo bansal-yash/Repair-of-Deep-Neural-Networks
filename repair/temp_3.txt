@@ -1,0 +1,63 @@
+Layer 2 pre-activations (before ReLU):
+  z2_1 = 0.760649
+  z2_2 = 0.000000
+
+Layer 2 post-activations (after ReLU):
+  v2_1 = 0.760649
+  v2_2 = 0.000000
+
+Layer 3 pre-activations (before ReLU):
+  z3_1 = 0.912779
+  z3_2 = 0.304259
+
+Layer 3 post-activations (after ReLU):
+  v3_1 = 0.912779
+  v3_2 = 0.304259
+
+Layer 4 pre-activations (before ReLU):
+  z4_1 = -0.182556
+  z4_2 = 0.882353
+
+Layer 4 post-activations (after ReLU):
+  v4_1 = 0.000000
+  v4_2 = 0.882353
+
+Output layer (Layer 5 - no activation):
+  v5_1 (output_1) = -0.882353
+  v5_2 (output_2) = 0.617647
+  Difference (v5_2 - v5_1) = 1.500000
+
+
+
+
+Total sum of absolute weight changes: 0.203174
+
+Layer 2 pre-activations (before ReLU):
+  z2_1 = -0.100000
+  z2_2 = 0.793651
+
+Layer 2 post-activations (after ReLU):
+  v2_1 = 0.000000
+  v2_2 = 0.793651
+
+Layer 3 pre-activations (before ReLU):
+  z3_1 = -0.555556
+  z3_2 = 1.190477
+
+Layer 3 post-activations (after ReLU):
+  v3_1 = 0.000000
+  v3_2 = 1.190477
+
+Layer 4 pre-activations (before ReLU):
+  z4_1 = 1.071429
+  z4_2 = -0.476191
+
+Layer 4 post-activations (after ReLU):
+  v4_1 = 1.071429
+  v4_2 = 0.000000
+
+Output layer (Layer 5 - no activation):
+  v5_1 (output_1) = 0.642857
+  v5_2 (output_2) = -0.857143
+  Difference (v5_2 - v5_1) = -1.500000
+  

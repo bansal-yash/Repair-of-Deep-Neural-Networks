@@ -1,0 +1,50 @@
+============================================================
+OPTIMAL SOLUTION FOUND
+============================================================
+
+Input value: v1_1 = 1.0000
+
+All weights:
+  w1 = 0.000000
+  w2 = 0.000000
+  w3 = 0.000000
+  w4 = 0.000000
+  w5 = 0.000000
+  w6 = -0.010000
+  w7 = -1.176082
+  w8 = 0.000000
+  w9 = 0.823928
+  w10 = 0.000000
+
+Total sum of absolute weight changes: 2.010010
+
+Layer 2 pre-activations:
+  z2_1 = 1.000000
+  z2_2 = 1.000000
+
+Layer 2 post-activations:
+  v2_1 = 1.000000
+  v2_2 = 1.000000
+
+Layer 3 pre-activations:
+  z3_1 = 0.010000
+  z3_2 = 100.000000
+
+Layer 3 post-activations:
+  v3_1 = 0.010000
+  v3_2 = 100.000000
+
+Layer 4 pre-activations:
+  z4_1 = 10.000000
+  z4_2 = 0.000000
+
+Layer 4 post-activations:
+  v4_1 = 10.000000
+  v4_2 = 0.000000
+
+Output layer (Layer 5):
+  v5_1 (output_1) = -1.760818
+  v5_2 (output_2) = -1.760718
+  Difference (v5_2 - v5_1) = 0.000100
+============================================================
+(myenv) (base) yash@Yashs-MacBook-Air-5 repair % 
