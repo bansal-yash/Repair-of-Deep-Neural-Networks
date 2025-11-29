@@ -2,9 +2,6 @@
 
 Project regarding formal verification and repair of deep neural networks at IIT Delhi under Professor Priyanka Golia and Professor Kumar Madhukar 
 
-**Author:** Yash Bansal   
-**Supervisors:** Prof. Priyanka Golia, Prof. Kumar Madhukar
-
 ### Overview
 
 This project addresses the problem of **Deep Neural Network (DNN) repair** for safety-critical applications. When a trained DNN violates required safety properties on certain inputs, this work develops a gradient-based repair approach that minimally modifies network weights to satisfy the violated properties while preserving performance on other inputs.
